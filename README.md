@@ -2,6 +2,8 @@
 
 Welcome to the repository of our **waste classification** project using **convolutional neural networks (CNNs)**. This project aims to develop an efficient model for identifying different types of waste, contributing to improved recycling and waste management processes.
 
+DATASET: **https://www.kaggle.com/datasets/mostafaabla/garbage-classification **
+
 ## 🚀 Project Goals
 
 The project was developed in three main phases, each focused on improving the classification model:
